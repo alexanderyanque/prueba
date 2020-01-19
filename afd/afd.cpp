@@ -3,7 +3,10 @@
 
 #include <iostream>
 
+using namespace std;
+
 int main()
 {
-    std::cout << "Hello World!\n"; 
+	cout << "!" << endl;
+	return 0;
 }
