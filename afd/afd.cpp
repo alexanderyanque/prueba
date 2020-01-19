@@ -7,6 +7,6 @@ using namespace std;
 
 int main()
 {
-	cout << "!" << endl;
+	cout << "B R U H" << endl;
 	return 0;
 }
